@@ -1,2 +1,5 @@
 for i in file:
-  print i
+  return 1
++
++
+print i
